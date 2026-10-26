@@ -1,0 +1,4 @@
+# Only the primary store has torpedoes
+GT4500,2,0,0,0
+TORPEDO,SINGLE  # fires from the primary store
+TORPEDO,SINGLE  # secondary is next but empty, so primary fires again

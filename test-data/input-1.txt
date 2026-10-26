@@ -1,0 +1,3 @@
+# Only the primary store has a torpedo, so SINGLE can only succeed from the primary
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # should fire from the primary store
