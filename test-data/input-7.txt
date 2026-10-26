@@ -1,0 +1,4 @@
+# One torpedo in each store, both never fail
+GT4500,1,0,1,0
+TORPEDO,ALL     # fires both stores
+TORPEDO,SINGLE  # both stores are empty now

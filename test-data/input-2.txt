@@ -1,0 +1,5 @@
+# One torpedo in each store, both never fail
+GT4500,1,0,1,0
+TORPEDO,SINGLE  # fires from the primary store
+TORPEDO,SINGLE  # alternates, fires from the secondary store
+TORPEDO,SINGLE  # both stores are empty now
